@@ -1,0 +1,7 @@
+path: C:\RoboLabCopy\data
+train: C:\RoboLabCopy\data\images\train
+val: C:\RoboLabCopy\data\images\val
+
+names: 
+  0: Weed
+  1: Lettuce
